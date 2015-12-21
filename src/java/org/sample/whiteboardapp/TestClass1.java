@@ -9,6 +9,8 @@ package org.sample.whiteboardapp;
  *
  * @author Wei.Cheng
  */
-public class TestClass {
-    
+public class TestClass1 {
+    public static void main(String str[]){
+        System.out.print("hello world");
+    }
 }
